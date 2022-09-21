@@ -1,0 +1,5 @@
+﻿  holamundo.cpp
+c:\users\jrodriguez\c++ visual\holamundo\holamundo\holamundo.cpp(4): error C2143: syntax error: missing ';' before 'namespace'
+c:\users\jrodriguez\c++ visual\holamundo\holamundo\holamundo.cpp(4): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\jrodriguez\c++ visual\holamundo\holamundo\holamundo.cpp(4): error C2059: syntax error: ';'
+c:\users\jrodriguez\c++ visual\holamundo\holamundo\holamundo.cpp(7): error C2447: '{': missing function header (old-style formal list?)

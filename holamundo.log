@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  holamundo.cpp
+c:\users\jrodriguez\c++ visual\holamundo\holamundo\holamundo.cpp(8): error C2065: 'cout': undeclared identifier
+c:\users\jrodriguez\c++ visual\holamundo\holamundo\holamundo.cpp(8): error C2065: 'endl': undeclared identifier
